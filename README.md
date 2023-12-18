@@ -5,7 +5,7 @@
 
 ![markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Sudo_logo.png/800px-Sudo_logo.png "markdown")
 
-
+#### HTML 程式碼 HTML codes
 ```html
 <!DOCTYPE html>
 <html>
@@ -14,6 +14,9 @@
         <meta name="keywords" content="Editor.md, Markdown, Editor" />
         <title>Hello world!</title>
         <style type="text/css">
+            body{font-size:14px;color:#444;font-family: "Microsoft Yahei", Tahoma, "Hiragino Sans GB", Arial;background:#fff;}
+            ul{list-style: none;}
+            img{border:none;vertical-align: middle;}
         </style>
     </head>
     <body>
